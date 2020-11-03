@@ -1,4 +1,5 @@
 .pyc
 /dev
+/__pycache__
 test.py
 .replit
